@@ -1,0 +1,32 @@
+_repo: The-Musgrave-controversy-b-being-a-collection-of-curious-and-interesting-papers-on-the-subjec__74629
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Beaumont, Charles d'Eon de
+    gutenberg_agent_id: '57581'
+    url: http://www.gutenberg.org/2009/agents/57581
+  - agent_name: Musgrave, Samual
+    gutenberg_agent_id: '57582'
+    url: http://www.gutenberg.org/2009/agents/57582
+description: ''
+gutenberg_issued: '2024-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74629'
+language: en
+pgterms:marc904: https://archive.org/details/musgravecontrove00eonduoft
+pgterms:marc905: 20230721223832debeaumont
+pgterms:marc906: '1770'
+pgterms:marc907: GB
+production_note: Super Queer Historian and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bJ Miller, $c1770.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Musgrave controversy : $b being a collection of curious and interesting
+  papers, on the subject of the late peace'
+url: http://www.gutenberg.org/ebooks/74629
